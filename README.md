@@ -2,7 +2,7 @@
 
 A series of notebooks that explore the theory fundamentals and algorithms of Machine Learning and examples in Python using Numpy, Pandas, Matplotlib and Scikit-Learn.
 
--[Exploratory data analysis (EDA) and data preprocessing](https://www.kaggle.com/viroviro/house-price-prediction)
+- [Exploratory data analysis (EDA) and data preprocessing](https://www.kaggle.com/viroviro/house-price-prediction)
 
 ## Supervised learning
 - [Introduction to linear regression and regularized linear models](https://github.com/victorviro/ML_algorithms_python/blob/master/Introduction_linear_regression_and_regularized_linear_models.ipynb)
