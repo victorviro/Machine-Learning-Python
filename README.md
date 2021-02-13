@@ -6,6 +6,7 @@ A series of notebooks that explore the theory fundamentals and algorithms of Mac
 - [Introduction to Pandas](https://nbviewer.jupyter.org/github/victorviro/Machine-Learning-Python/blob/master/Pandas.ipynb)
 - [Introduction to Matplotlib and Seaborn](https://nbviewer.jupyter.org/github/victorviro/Machine-Learning-Python/blob/master/Matplotlib_and_Seaborn.ipynb)
 - [Introduction to Scikit-learn](https://nbviewer.jupyter.org/github/victorviro/Machine-Learning-Python/blob/master/Introduction_to_Scikit_learn.ipynb)
+- [Statistical tests with python](https://nbviewer.jupyter.org/github/victorviro/Machine-Learning-Python/blob/master/Statistical_hypothesis_tests_in_Python.ipynb)
 
 ## Supervised learning
 - [Introduction to linear regression and regularized linear models](https://nbviewer.jupyter.org/github/victorviro/ML_algorithms_python/blob/master/Introduction_linear_regression_and_regularized_linear_models.ipynb)
