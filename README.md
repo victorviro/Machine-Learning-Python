@@ -11,6 +11,7 @@ A series of notebooks that explore the theory fundamentals and algorithms of Mac
 ## Supervised learning
 - [Introduction to linear regression and regularized linear models](https://nbviewer.jupyter.org/github/victorviro/ML_algorithms_python/blob/master/Introduction_linear_regression_and_regularized_linear_models.ipynb)
 - [House price prediction (EDA and data preprocessing)](https://www.kaggle.com/viroviro/house-price-prediction)
+- [Metrics and cost functions](https://nbviewer.jupyter.org/github/victorviro/Machine-Learning-Python/blob/master/ML_metrics_and_cost_functions.ipynb)
 - [Logistic regression](https://nbviewer.jupyter.org/github/victorviro/ML_algorithms_python/blob/master/Logistic_regression.ipynb)
 - [K-Nearest Neighbors (KNN)](https://nbviewer.jupyter.org/github/victorviro/Machine-Learning-Python/blob/master/K_Nearest_Neighbors.ipynb)
 - [Discriminant analysis and Naive bayes](https://nbviewer.jupyter.org/github/victorviro/ML_algorithms_python/blob/master/Gaussian_discriminant_analysis_and_Naive_bayes.ipynb)
