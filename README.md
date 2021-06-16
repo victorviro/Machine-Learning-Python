@@ -19,7 +19,7 @@ A series of notebooks that explore the theory fundamentals and algorithms of Mac
 - [Ensemble learning](https://nbviewer.jupyter.org/github/victorviro/ML_algorithms_python/blob/master/Ensemble_learning.ipynb)
 - [Support Vector Machines (SVM)](https://nbviewer.jupyter.org/github/victorviro/ML_algorithms_python/blob/master/Support_Vector_Machines_explained.ipynb)
 - [Interpretable machine learning](https://nbviewer.jupyter.org/github/victorviro/Machine-Learning-Python/blob/master/Machine_Learning_Interpretability_with_InterpretML.ipynb)
-- [Hyperparameter optimization with hyperopt](https://nbviewer.jupyter.org/github/victorviro/Machine-Learning-Python/blob/master/Hyperopt_Hyperparameter_Optimization.ipynb)
+- [Hyperparameter optimization](https://nbviewer.jupyter.org/github/victorviro/Machine-Learning-Python/blob/master/Hyperparameter_Optimization.ipynb)
 
 
 
