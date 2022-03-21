@@ -10,6 +10,7 @@ A series of notebooks that explore the theory fundamentals and algorithms of Mac
 - [Introduction to MLOps](https://nbviewer.jupyter.org/github/victorviro/Machine-Learning-Python/blob/master/Introduction_to_MLOps.ipynb)
 - [Roles involved in the ML lifecycle](https://nbviewer.jupyter.org/github/victorviro/Machine-Learning-Python/blob/master/Roles_in_MLOps.ipynb)
 - [Model development in MLOps](https://nbviewer.jupyter.org/github/victorviro/Machine-Learning-Python/blob/master/Model_development_in_MLOps.ipynb)
+- [CRISP-DM methodology](https://nbviewer.org/github/victorviro/Machine-Learning-Python/blob/master/CRISP_DM.ipynb)
 
 ## Introduction to Python Data Science Stack libraries
 
